@@ -3,7 +3,7 @@
 $cities = ['Amsterdam', 'Rotterdam', 'Utrecht', 'Breda'];
 
 echo $cities[0];
-echo $cities[3];
+echo end($cities);
 
 $cities[] = 'Eindhoven';
-echo $cities[4];
+echo end($cities);
