@@ -2,9 +2,10 @@
 
 $product = [
     'name' => 'Laptop',
-    'price' => 799.99,
+    'price' => 899.99,
     'inStock' => true,
-    'brand' => 'HP'
 ];
+$product['price'] = 799.99;
+$product['Brand'] = 'HP';
 
 echo print_r($product);
