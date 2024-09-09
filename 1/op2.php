@@ -17,4 +17,3 @@
     $deNederlanden = "Dutch";
     $hoi = "Yo";
     $usa = "🦅";
-    
