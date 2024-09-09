@@ -7,4 +7,5 @@ $student = [
 ];
 
 echo 'Naam: '.$student['name'];
+echo '<br>';
 echo 'Cijfer: '.$student['grade'];

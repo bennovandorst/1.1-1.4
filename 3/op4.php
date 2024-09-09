@@ -1,5 +1,6 @@
 <?php
 
+echo "<pre>";
 $product = [
     'name' => 'Laptop',
     'price' => 899.99,
